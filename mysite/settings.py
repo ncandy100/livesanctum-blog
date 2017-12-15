@@ -25,7 +25,7 @@ SECRET_KEY = 'u#ij$q-xp+&)$^jp+b^hz#lggs95f)5pz0q3i)j9_da!^u5=7_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'livesanctum.pythonanywhere.com']
 
 
 # Application definition
